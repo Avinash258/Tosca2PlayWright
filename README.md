@@ -1,8 +1,8 @@
-# Tosca â†’ Playwright Converter
+# Tosca Ã¢â€ â€™ Playwright Converter
 
-Parses **Tricentis Tosca** test assets and emits a **page-object Playwright** project â€” migration by tooling, not manual rewrite.
+Parses **Tricentis Tosca** test assets and emits a **page-object Playwright** project Ã¢â‚¬â€ migration by tooling, not manual rewrite.
 
-> Documented outcome on delivery programs: ~**60%** reduction in migration effort Â· [Portfolio](https://avinash258.github.io/Protfolio/)
+> Documented outcome on delivery programs: ~**60%** reduction in migration effort Ã‚Â· [Portfolio](https://avinash258.github.io/portfolio/)
 
 ## Overview
 
@@ -13,12 +13,12 @@ Enterprise teams often hold large Tosca estates. This toolkit extracts structure
 - Extract and inspect Tosca package contents
 - Convert Tosca assets toward JSON / XML intermediate forms
 - Generate Playwright page objects and sample specs
-- POM scaffold (`base` Â· `home` Â· `login` pages) ready for extension
+- POM scaffold (`base` Ã‚Â· `home` Ã‚Â· `login` pages) ready for extension
 
 ## Stack
 
 - Python (conversion utilities)
-- JavaScript Â· Playwright (generated project)
+- JavaScript Ã‚Â· Playwright (generated project)
 - Node.js tooling for JSON / XML paths
 
 ## Getting started
@@ -53,5 +53,5 @@ npx playwright test
 
 ## Author
 
-**Avinash Sharma** â€” QA Automation Architect / Lead SDET  
-[GitHub](https://github.com/Avinash258) Â· [LinkedIn](https://www.linkedin.com/in/p-avinash-sharma-8b0203b9/) Â· [Portfolio](https://avinash258.github.io/Protfolio/)
+**Avinash Sharma** Ã¢â‚¬â€ QA Automation Architect / Lead SDET  
+[GitHub](https://github.com/Avinash258) Ã‚Â· [LinkedIn](https://www.linkedin.com/in/p-avinash-sharma-8b0203b9/) Ã‚Â· [Portfolio](https://avinash258.github.io/portfolio/)
